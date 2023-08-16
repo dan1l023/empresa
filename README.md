@@ -2,9 +2,6 @@
 
 Este proyecto consiste en un sistema de gestión de empleados implementado en Java. Permite crear y administrar información de empleados administrativos y operarios.
 
-
-### [Sistema de Gestión de Empleados](https://github.com/dan1l023/empresa) <-- Este es el link.
-
 ## Contenido
 
 - [Descripción](#descripción)
